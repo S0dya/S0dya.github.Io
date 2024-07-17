@@ -82,7 +82,6 @@ I'm a passionate game developer with experience in creating a variety of games o
 ![Screenshot 2](Assets/Images/ma1.png)
 
 **Links**:
-- [Itch.Io Link](#https://pinkthing.itch.io/magic-assault)
 - [GooglePlay Link](#https://play.google.com/store/apps/details?id=com.PinkThing.MagicAssault&hl=en&gl=US)
 - [Source Code](#https://github.com/S0dya/Magic-Assault)
 - [More Information](#https://www.behance.net/gallery/191525399/Magic-Assault)
