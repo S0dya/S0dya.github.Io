@@ -14,7 +14,7 @@ I'm a passionate game developer with experience in creating a variety of games o
 
 ![Screenshot 1](Assets/Images/Loh.png)
 
-**Skills Learned**: Animation rigging, level design, 3D modeling, animating, game settings, localization.
+**Skills Learned**: Animation rigging, ragdoll, observer pattern, level design, 3D modeling, animating, complex game settings, localization.
 
 ![Screenshot 2](Assets/Images/Loh1.png)
 
@@ -37,7 +37,7 @@ I'm a passionate game developer with experience in creating a variety of games o
 
 ![Screenshot 1](Assets/Images/tow.png)
 
-**Skills Learned**: Dialogue system development, NPC behavior design, coding and design for 2D games.
+**Skills Learned**: Complex dialogue system, NPC behavior design, coding and design for 2D games.
 
 ![Screenshot 2](Assets/Images/Tow1.png)
 
@@ -108,65 +108,6 @@ I'm a passionate game developer with experience in creating a variety of games o
 
 ---
 
-## Night at School
-
-**Description**: A short mobile horror puzzle game inspired by "Granny".
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YN6urf_GNto?si=NFtirGMmHrqXm7U5" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-**Unique Mechanics**: Navmesh for enemy pathfinding, level design for horror elements.
-
-![Screenshot 1](Assets/Images/nas.png)
-
-**Skills Learned**: 3D game creation, horror level design, Navmesh.
-
-![Screenshot 2](Assets/Images/nas1.png)
-
-**Links**:
-- [GooglePlay Link](#https://play.google.com/store/apps/details?id=com.PinkThing.NightAtSchool&hl=en&gl=US)
-- [Source Code](#https://github.com/S0dya/NightAtSchool)
-
----
-
-## Soul Dungeon
-
-**Description**: An unfinished 2D arcade roguelike game inspired by "Soul Knight".
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/om69FVHC0OM?si=D9BFQi53x91869F1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-**Unique Mechanics**: Complex AI, random level generation, scriptable objects for weapon and character data.
-
-![Screenshot 1](Assets/Images/Sd.png)
-
-**Skills Learned**: AI development, roguelike mechanics, scriptable objects.
-
-![Screenshot 2](Assets/Images/Sd1.png)
-
-**Links**:
-- [GooglePlay Link](#https://play.google.com/store/apps/details?id=com.PinkThing.com.unity.SoulDungeon&hl=en&gl=US)
-- [Source Code](#https://github.com/S0dya/SoulDangeoun)
-
----
-
-## Infinite Typewriter Apes Odyssey
-
-**Description**: A fun experiment to test the theory of an ape writing Shakespeare's play given infinite time.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EoP0WupF9zw?si=qZaphVAJZ_y5bxLo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-**Unique Mechanics**: Random text generation, fun experimental gameplay.
-
-![Screenshot 1](Assets/Images/Itwao.png)
-
-**Skills Learned**: Creative coding, experimental game design.
-
-**Links**:
-- [GooglePlay Link](#https://play.google.com/store/apps/details?id=com.PinkThing.com.unity.InfiniteTypewriterApesOdessey&hl=en&gl=US)
-- [Source Code](#https://github.com/S0dya/InfiniteTypewriterApesOdyssey)
-- [More Information](#https://www.behance.net/gallery/191522565/InfiniteTypewriterApesOdyssey)
-
----
-
 ## Close Your Eyes
 
 **Description**: A 2D hardcore horror puzzle with a unique eye-opening mechanic to navigate a dark world.
@@ -186,27 +127,6 @@ I'm a passionate game developer with experience in creating a variety of games o
 - [GooglePlay Link](#https://play.google.com/store/apps/details?id=com.PinkThing.com.unity.template.CloseYourEyes&hl=en&gl=US)
 - [Source Code](#https://github.com/S0dya/CloseYourEyes)
 - [More Information](#https://www.behance.net/gallery/191466445/Close-Your-Eyes)
-
----
-
-## Gecko Game
-
-**Description**: My first Unity game, a simple 2D arcade where a gecko catches flies.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-evW07iNWqE?si=03MMzWwf7kfyvcDu" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-**Unique Mechanics**: Random fly spawns, custom AI, mobile platform settings.
-
-![Screenshot 1](Assets/Images/Gecko.png)
-
-**Skills Learned**: Unity basics, mobile game development, simple settings and shop UI.
-
-![Screenshot 2](Assets/Images/Gecko1.png)
-
-**Links**:
-- [GooglePlay Link](#https://play.google.com/store/apps/details?id=com.PinkThing.com.unity.GeckoGame&hl=en&gl=US)
-- [Source Code](#https://github.com/S0dya/Stick)
-- [More Information](#https://www.behance.net/gallery/191467711/GECKO-Game)
 
 ---
 
