@@ -8,7 +8,7 @@ I'm a passionate game developer with experience in creating a variety of games o
 
 **Description**: A 3D horror shooter for PC where player navigates through the visions of a crazy ex-police officer in an old Soviet building.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDkjGOPWGhA?si=sNmZvTPqh1m6Zv54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tgxWWx9oRBs?si=ZnGdGeWb0kL7NFtu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Unique Mechanics**: Inversive kinematics for realistic aiming and reloading, isometric and first-person camera switches, complex enemy behaviors and responses on being shot.
 
