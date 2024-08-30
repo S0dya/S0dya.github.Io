@@ -19,9 +19,9 @@ I'm a passionate game developer with experience in creating a variety of games o
 ![Screenshot 2](Assets/Images/LohUf2.gif)
 
 **Links**:
-- [Itch.Io Link](#https://pinkthing.itch.io/lullaby-of-hunger)
-- [Source Code](#https://github.com/S0dya/LullabyOfHunger)
-- [More Information](#https://www.behance.net/gallery/201274647/Lullaby-Of-Hunger)
+- [Itch.Io Link](https://pinkthing.itch.io/lullaby-of-hunger)
+- [Source Code](https://github.com/S0dya/LullabyOfHunger)
+- [More Information](https://www.behance.net/gallery/201274647/Lullaby-Of-Hunger)
 
 ![Screenshot 3](Assets/Images/GIF.gif)
 
@@ -41,7 +41,7 @@ I'm a passionate game developer with experience in creating a variety of games o
 ![Screenshot 2](Assets/Images/Gr.png)
 
 **Links**:
-- [GooglePlay Link]([#https://ordinaryworldgame.itch.io/ordinary-world](https://play.google.com/store/apps/details?id=com.PinkThing.GnomeRun&hl=en&gl=US))
+- [GooglePlay Link]([https://ordinaryworldgame.itch.io/ordinary-world](https://play.google.com/store/apps/details?id=com.PinkThing.GnomeRun&hl=en&gl=US))
 - [Source code](https://github.com/S0dya/Gnome-Run)
 
 ![Screenshot 2](Assets/Images/Gr1.png)
@@ -50,9 +50,9 @@ I'm a passionate game developer with experience in creating a variety of games o
 
 ## The Ordinary World
 
-**Description**: A 2D top-down game where player needs to earn money to leave a town in a limited amount of time by playing mini-games and interact with NPCs. Created for [Tayolor Blossom](#https://www.instagram.com/blossom_eats_rice/).
+**Description**: A 2D top-down game where player needs to earn money to leave a town in a limited amount of time by playing mini-games and interact with NPCs. Created for [Tayolor Blossom](https://www.instagram.com/blossom_eats_rice/).
 
-[Kickstarter](#https://www.kickstarter.com/projects/ordinaryworld/ordinary-world-the-video-game-0?ref=user_menu) 
+[Kickstarter](https://www.kickstarter.com/projects/ordinaryworld/ordinary-world-the-video-game-0?ref=user_menu) 
 
 **Unique Mechanics**: Complex dialogue system, NPC schedules, observer pattern, in-game mini-games.
 
@@ -63,13 +63,13 @@ I'm a passionate game developer with experience in creating a variety of games o
 ![Screenshot 2](Assets/Images/Tow1.png)
 
 **Links**:
-- [Itch.Io Link](#https://ordinaryworldgame.itch.io/ordinary-world)
+- [Itch.Io Link](https://ordinaryworldgame.itch.io/ordinary-world)
 
 ---
 
 ## MUTAStones
 
-**Description**: A fast-paced hardcore arcade game created in 72h for [ScoreSpace Jam #28](#https://itch.io/jam/scorejam28) game jam (mutation topic and necessary mechanic of leaderboards). Ranked 75th out of 176 entries.
+**Description**: A fast-paced hardcore arcade game created in 72h for [ScoreSpace Jam #28](https://itch.io/jam/scorejam28) game jam (mutation topic and necessary mechanic of leaderboards). Ranked 75th out of 176 entries.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q-DC6EmSG_w?si=WR3DVisEz1n2M-K4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -103,9 +103,9 @@ I'm a passionate game developer with experience in creating a variety of games o
 ![Screenshot 2](Assets/Images/MaUf.png)
 
 **Links**:
-- [GooglePlay Link](#https://play.google.com/store/apps/details?id=com.PinkThing.MagicAssault&hl=en&gl=US)
-- [Source Code](#https://github.com/S0dya/Magic-Assault)
-- [More Information](#https://www.behance.net/gallery/191525399/Magic-Assault)
+- [GooglePlay Link](https://play.google.com/store/apps/details?id=com.PinkThing.MagicAssault&hl=en&gl=US)
+- [Source Code](https://github.com/S0dya/Magic-Assault)
+- [More Information](https://www.behance.net/gallery/191525399/Magic-Assault)
 
 ---
 
@@ -124,8 +124,8 @@ I'm a passionate game developer with experience in creating a variety of games o
 ![Screenshot 2](Assets/Images/rhd1.png)
 
 **Links**:
-- [GooglePlay Link](#https://play.google.com/store/apps/details?id=com.PinkThing.RushHourDriver&hl=en&gl=US)
-- [Source Code](#https://github.com/S0dya/RushHourRider)
+- [GooglePlay Link](https://play.google.com/store/apps/details?id=com.PinkThing.RushHourDriver&hl=en&gl=US)
+- [Source Code](https://github.com/S0dya/RushHourRider)
 
 ---
 
@@ -144,10 +144,10 @@ I'm a passionate game developer with experience in creating a variety of games o
 ![Screenshot 2](Assets/Images/Cye1.png)
 
 **Links**:
-- [Itch.Io Link](#https://pinkthing.itch.io/close-your-eyes)
-- [GooglePlay Link](#https://play.google.com/store/apps/details?id=com.PinkThing.com.unity.template.CloseYourEyes&hl=en&gl=US)
-- [Source Code](#https://github.com/S0dya/CloseYourEyes)
-- [More Information](#https://www.behance.net/gallery/191466445/Close-Your-Eyes)
+- [Itch.Io Link](https://pinkthing.itch.io/close-your-eyes)
+- [GooglePlay Link](https://play.google.com/store/apps/details?id=com.PinkThing.com.unity.template.CloseYourEyes&hl=en&gl=US)
+- [Source Code](https://github.com/S0dya/CloseYourEyes)
+- [More Information](https://www.behance.net/gallery/191466445/Close-Your-Eyes)
 
 ---
 
@@ -172,7 +172,7 @@ I'm a passionate game developer with experience in creating a variety of games o
 
 ### LeetCode
 
-I have solved many problems using C# on [LeetCode](#https://leetcode.com/u/s0dya/), which has helped me improve my problem-solving skills and deepen my understanding of algorithms and data structures.
+I have solved many problems using C# on [LeetCode](https://leetcode.com/u/s0dya/), which has helped me improve my problem-solving skills and deepen my understanding of algorithms and data structures.
 
 ![Screenshot 1](Assets/Images/Leet.png)
 
