@@ -2,7 +2,7 @@
 
 I'm a passionate game developer with experience in creating a variety of games on Unity, from mobile horror puzzles to complex 3D shooters. Below are some of my key projects showcasing my skills and the unique mechanics I have developed.
 
-## Projects
+### Projects
 
 ## Lullaby of Hunger
 
@@ -24,6 +24,27 @@ I'm a passionate game developer with experience in creating a variety of games o
 - [More Information](#https://www.behance.net/gallery/201274647/Lullaby-Of-Hunger)
 
 ![Screenshot 3](Assets/Images/GIF.gif)
+
+---
+
+## Gnome Run
+**Description**: A vibrant 3D runner game where players guide a gnome through a series of randomly generated levels, collecting good items and avoiding obstacles.
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=7cgUq30jhZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Unique Mechanics**: Advanced level generation system using an array-based editor script that randomizes level parts while maintaining proper distances and orientations. This feature introduces varied gameplay experiences each time the game is played.
+
+![Screenshot 1](Assets/Images/GrUf.gif)
+
+**Skills Learned**: Level generation algorithms, procedural content creation, Zenject, multiplatform development.
+
+![Screenshot 2](Assets/Images/Gr.png)
+
+**Links**:
+- [GooglePlay Link]([#https://ordinaryworldgame.itch.io/ordinary-world](https://play.google.com/store/apps/details?id=com.PinkThing.GnomeRun&hl=en&gl=US))
+- [Source code](https://github.com/S0dya/Gnome-Run)
+
+![Screenshot 2](Assets/Images/Gr1.png)
 
 ---
 
@@ -79,7 +100,7 @@ I'm a passionate game developer with experience in creating a variety of games o
 
 **Skills Learned**: Random level and enemy generation, complex input systems, complex elemtal system.
 
-![Screenshot 2](Assets/Images/ma1.png)
+![Screenshot 2](Assets/Images/MaUf.png)
 
 **Links**:
 - [GooglePlay Link](#https://play.google.com/store/apps/details?id=com.PinkThing.MagicAssault&hl=en&gl=US)
@@ -131,6 +152,23 @@ I'm a passionate game developer with experience in creating a variety of games o
 ---
 
 ## Other Works/Projects
+
+### Prototypes
+
+## MechGuard
+
+**Description**: A prototype for a strategy game featuring mechs, built using Unity's DOTS (Data-Oriented Technology Stack) and ECS (Entity Component System). The game showcases basic unit logic for movement, combat, and health management.
+
+![Screenshot 1](Assets/Images/Mg.png)
+
+**Unique Mechanics**: Implementation of ECS and DOTS for efficient game logic processing. This prototype includes basic AI behaviors for mechs, demonstrating the potential for scalable and performant game systems.
+
+**Skills Learned**: DOTS, ECS, Jobs System, Burst Compiler.
+
+**Links**:
+- [Source Code](https://github.com/S0dya/Mech-Guard)
+
+---
 
 ### LeetCode
 
