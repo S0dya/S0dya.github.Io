@@ -52,8 +52,6 @@ I'm a passionate game developer with experience in creating a variety of games o
 
 **Description**: A 2D top-down game where player needs to earn money to leave a town in a limited amount of time by playing mini-games and interact with NPCs. Created for [Tayolor Blossom](https://www.instagram.com/blossom_eats_rice/).
 
-[Kickstarter](https://www.kickstarter.com/projects/ordinaryworld/ordinary-world-the-video-game-0?ref=user_menu) 
-
 **Unique Mechanics**: Complex dialogue system, NPC schedules, observer pattern, in-game mini-games.
 
 ![Screenshot 1](Assets/Images/tow.png)
@@ -64,6 +62,7 @@ I'm a passionate game developer with experience in creating a variety of games o
 
 **Links**:
 - [Itch.Io Link](https://ordinaryworldgame.itch.io/ordinary-world)
+- [Kickstarter](https://www.kickstarter.com/projects/ordinaryworld/ordinary-world-the-video-game-0?ref=user_menu) 
 
 ---
 
