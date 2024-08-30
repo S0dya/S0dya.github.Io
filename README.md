@@ -12,11 +12,11 @@ I'm a passionate game developer with experience in creating a variety of games o
 
 **Unique Mechanics**: Inversive kinematics for realistic aiming and reloading, isometric and first-person camera switches, complex enemy behaviors and responses on being shot.
 
-![Screenshot 1](Assets/Images/Loh.png)
+![Screenshot 1](Assets/Images/LohUf1.gif)
 
 **Skills Learned**: Animation rigging, ragdoll, observer pattern, level design, 3D modeling, animating, complex game settings, localization.
 
-![Screenshot 2](Assets/Images/Loh1.png)
+![Screenshot 2](Assets/Images/LohUf2.gif)
 
 **Links**:
 - [Itch.Io Link](#https://pinkthing.itch.io/lullaby-of-hunger)
@@ -30,7 +30,7 @@ I'm a passionate game developer with experience in creating a variety of games o
 ## Gnome Run
 **Description**: A vibrant 3D runner game where players guide a gnome through a series of randomly generated levels, collecting good items and avoiding obstacles.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=7cgUq30jhZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7cgUq30jhZI?si=K20QyfvWNuMGGC75" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Unique Mechanics**: Advanced level generation system using an array-based editor script that randomizes level parts while maintaining proper distances and orientations. This feature introduces varied gameplay experiences each time the game is played.
 
