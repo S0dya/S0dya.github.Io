@@ -41,7 +41,7 @@ I'm a passionate game developer with experience in creating a variety of games o
 ![Screenshot 2](Assets/Images/Gr.png)
 
 **Links**:
-- [GooglePlay Link]([https://ordinaryworldgame.itch.io/ordinary-world](https://play.google.com/store/apps/details?id=com.PinkThing.GnomeRun&hl=en&gl=US))
+- [GooglePlay Link](https://play.google.com/store/apps/details?id=com.PinkThing.GnomeRun&hl=en&gl=US)
 - [Source code](https://github.com/S0dya/Gnome-Run)
 
 ![Screenshot 2](Assets/Images/Gr1.png)
