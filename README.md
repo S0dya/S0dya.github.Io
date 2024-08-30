@@ -82,9 +82,9 @@ I'm a passionate game developer with experience in creating a variety of games o
 ![Screenshot 2](Assets/Images/ms1.png)
 
 **Links**:
-- [Itch.Io Link](#https://pinkthing.itch.io/mutastones)
-- [Source Code](#https://github.com/S0dya/MUTAStones)
-- [More Information](#https://www.behance.net/gallery/191524553/MUTAstones)
+- [Itch.Io Link](https://pinkthing.itch.io/mutastones)
+- [Source Code](https://github.com/S0dya/MUTAStones)
+- [More Information](https://www.behance.net/gallery/191524553/MUTAstones)
 
 ---
 
