@@ -159,7 +159,7 @@ I'm a passionate game developer with experience in creating a variety of games o
 
 **Description**: A prototype for a strategy game featuring mechs, built using Unity's DOTS (Data-Oriented Technology Stack) and ECS (Entity Component System). The game showcases basic unit logic for movement, combat, and health management.
 
-![Screenshot 1](Assets/Images/Mg.png)
+![Screenshot 1](Assets/Images/Mg.gif)
 
 **Unique Mechanics**: Implementation of ECS and DOTS for efficient game logic processing. This prototype includes basic AI behaviors for mechs, demonstrating the potential for scalable and performant game systems.
 
