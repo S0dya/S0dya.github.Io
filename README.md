@@ -20,7 +20,6 @@ I'm a passionate game developer with experience in creating a variety of games o
 
 **Links**:
 - [Itch.Io Link](https://pinkthing.itch.io/lullaby-of-hunger)
-- [Source Code](https://github.com/S0dya/LullabyOfHunger)
 - [More Information](https://www.behance.net/gallery/201274647/Lullaby-Of-Hunger)
 
 ![Screenshot 3](Assets/Images/GIF.gif)
@@ -42,7 +41,6 @@ I'm a passionate game developer with experience in creating a variety of games o
 
 **Links**:
 - [GooglePlay Link](https://play.google.com/store/apps/details?id=com.PinkThing.GnomeRun&hl=en&gl=US)
-- [Source code](https://github.com/S0dya/Gnome-Run)
 
 ![Screenshot 2](Assets/Images/Gr1.png)
 
@@ -82,7 +80,6 @@ I'm a passionate game developer with experience in creating a variety of games o
 
 **Links**:
 - [Itch.Io Link](https://pinkthing.itch.io/mutastones)
-- [Source Code](https://github.com/S0dya/MUTAStones)
 - [More Information](https://www.behance.net/gallery/191524553/MUTAstones)
 
 ---
@@ -103,7 +100,6 @@ I'm a passionate game developer with experience in creating a variety of games o
 
 **Links**:
 - [GooglePlay Link](https://play.google.com/store/apps/details?id=com.PinkThing.MagicAssault&hl=en&gl=US)
-- [Source Code](https://github.com/S0dya/Magic-Assault)
 - [More Information](https://www.behance.net/gallery/191525399/Magic-Assault)
 
 ---
@@ -124,7 +120,6 @@ I'm a passionate game developer with experience in creating a variety of games o
 
 **Links**:
 - [GooglePlay Link](https://play.google.com/store/apps/details?id=com.PinkThing.RushHourDriver&hl=en&gl=US)
-- [Source Code](https://github.com/S0dya/RushHourRider)
 
 ---
 
@@ -145,7 +140,6 @@ I'm a passionate game developer with experience in creating a variety of games o
 **Links**:
 - [Itch.Io Link](https://pinkthing.itch.io/close-your-eyes)
 - [GooglePlay Link](https://play.google.com/store/apps/details?id=com.PinkThing.com.unity.template.CloseYourEyes&hl=en&gl=US)
-- [Source Code](https://github.com/S0dya/CloseYourEyes)
 - [More Information](https://www.behance.net/gallery/191466445/Close-Your-Eyes)
 
 ---
@@ -163,9 +157,6 @@ I'm a passionate game developer with experience in creating a variety of games o
 **Unique Mechanics**: Implementation of ECS and DOTS for efficient game logic processing. This prototype includes basic AI behaviors for mechs, demonstrating the potential for scalable and performant game systems.
 
 **Skills Learned**: DOTS, ECS, Jobs System, Burst Compiler.
-
-**Links**:
-- [Source Code](https://github.com/S0dya/Mech-Guard)
 
 ---
 
