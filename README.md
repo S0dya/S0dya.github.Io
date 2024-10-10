@@ -103,7 +103,7 @@ I'm a passionate game developer with experience in creating a variety of games o
 **Links**:
 - [GooglePlay Link](https://play.google.com/store/apps/details?id=com.PinkThing.MagicAssault&hl=en&gl=US)
 - [More Information](https://www.behance.net/gallery/191525399/Magic-Assault)
-- [Yandex Link](https://yandex.ru/games/app/293707?utm_source=app_page)
+- [Yandex Games Link](https://yandex.ru/games/app/293707?utm_source=app_page)
 
 ---
 
@@ -142,7 +142,7 @@ I'm a passionate game developer with experience in creating a variety of games o
 
 **Links**:
 - [Itch.Io Link](https://pinkthing.itch.io/close-your-eyes)
-- [Yandex Link](https://yandex.ru/games/app/293705?utm_source=app_page)
+- [Yandex Games Link](https://yandex.ru/games/app/293705?utm_source=app_page)
 - [GooglePlay Link](https://play.google.com/store/apps/details?id=com.PinkThing.com.unity.template.CloseYourEyes&hl=en&gl=US)
 - [More Information](https://www.behance.net/gallery/191466445/Close-Your-Eyes)
 
