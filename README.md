@@ -1,12 +1,12 @@
 # Hello!
 
-I'm a passionate game developer with experience in creating a variety of games on Unity, from mobile horror puzzles to complex 3D shooters. Below are some of my key projects showcasing my skills and the unique mechanics I have developed.
+I'm a game developer with experience in creating a variety of games on Unity, from mobile horror, puzzles to complex 3D shooters. Below are some of my key projects showcasing my skills and the unique mechanics I have developed.
 
 ### Projects
 
 ## Lullaby of Hunger
 
-**Description**: A 3D horror shooter for PC where player navigates through the visions of a crazy ex-police officer in an old Soviet building.
+**Description**: A 3D horror shooter for PC.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tgxWWx9oRBs?si=ZnGdGeWb0kL7NFtu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -27,11 +27,11 @@ I'm a passionate game developer with experience in creating a variety of games o
 ---
 
 ## Gnome Run
-**Description**: A vibrant 3D runner game where players guide a gnome through a series of randomly generated levels, collecting good items and avoiding obstacles.
+**Description**: 3D runner game for WebGL and mobile.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7cgUq30jhZI?si=K20QyfvWNuMGGC75" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**Unique Mechanics**: Advanced level generation system using an array-based editor script that randomizes level parts while maintaining proper distances and orientations. This feature introduces varied gameplay experiences each time the game is played.
+**Unique Mechanics**: Advanced level generation system using an array-based editor script.
 
 ![Screenshot 1](Assets/Images/GrUf.gif)
 
@@ -50,9 +50,9 @@ I'm a passionate game developer with experience in creating a variety of games o
 
 ## The Ordinary World
 
-**Description**: A 2D top-down game where player needs to earn money to leave a town in a limited amount of time by playing mini-games and interact with NPCs. Created for [Tayolor Blossom](https://www.instagram.com/blossom_eats_rice/).
+**Description**: 2D top-down game for PC.
 
-**Unique Mechanics**: Complex dialogue system, NPC schedules, observer pattern, in-game mini-games.
+**Unique Mechanics**: Complex dialogue system, NPC schedules, game events, mini-games.
 
 ![Screenshot 1](Assets/Images/tow.png)
 
@@ -68,7 +68,7 @@ I'm a passionate game developer with experience in creating a variety of games o
 
 ## MUTAStones
 
-**Description**: A fast-paced hardcore arcade game created in 72h for [ScoreSpace Jam #28](https://itch.io/jam/scorejam28) game jam (mutation topic and necessary mechanic of leaderboards). Ranked 75th out of 176 entries.
+**Description**: A fast-paced hardcore arcade game created in 3 days for [ScoreSpace Jam #28](https://itch.io/jam/scorejam28) game jam. Ranked 75th out of 176 entries.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q-DC6EmSG_w?si=WR3DVisEz1n2M-K4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -92,7 +92,7 @@ I'm a passionate game developer with experience in creating a variety of games o
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LhD1Jo8dpi4?si=-h3UHhLYU35ogLzi" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Unique Mechanics**: Drawing spells on screen to cast them with different elemental advantages and disadvantages.
+**Unique Mechanics**: Drawing spells on screen to cast them with different elemental powers, enemies responses to different elemental damage.
 
 ![Screenshot 1](Assets/Images/ma.png)
 
@@ -109,11 +109,11 @@ I'm a passionate game developer with experience in creating a variety of games o
 
 ## Rush Hour Driver
 
-**Description**: A mobile arcade racing game where player needs to avoid cars to survive as long as possible.
+**Description**: A mobile arcade racing game.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IOjK1EagMMc?si=fgX0u7YQ0usBkNfl" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Unique Mechanics**: Simple 3D game development, racing mechanics, boosts mechanic.
+**Unique Mechanics**: 3D game development, racing mechanics, boosts mechanic.
 
 ![Screenshot 1](Assets/Images/rhd.png)
 
@@ -128,7 +128,7 @@ I'm a passionate game developer with experience in creating a variety of games o
 
 ## Close Your Eyes
 
-**Description**: A 2D hardcore horror puzzle with a unique eye-opening mechanic to navigate a dark world.
+**Description**: A 2D hardcore horror puzzle for mobile.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jfJetNccV8Y?si=a_O85Jap6q9El3Wd" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -154,19 +154,34 @@ I'm a passionate game developer with experience in creating a variety of games o
 
 ## MechGuard
 
-**Description**: A prototype for a strategy game featuring mechs, built using Unity's DOTS (Data-Oriented Technology Stack) and ECS (Entity Component System). The game showcases basic unit logic for movement, combat, and health management.
+**Description**: A prototype mechs tower defense, built using Unitys DOTS and ECS.
 
 ![Screenshot 1](Assets/Images/Mg.gif)
 
-**Unique Mechanics**: Implementation of ECS and DOTS for efficient game logic processing. This prototype includes basic AI behaviors for mechs, demonstrating the potential for scalable and performant game systems.
+**Unique Mechanics**: Implementation of ECS and DOTS for efficient game logic processing. This prototype includes basic AI behaviors.
 
 **Skills Learned**: DOTS, ECS, Jobs System, Burst Compiler.
 
 ---
 
+### Prototypes
+
+## Jelly Battle
+
+**Description**: A prototype multiplayer arcade.
+
+![Screenshot 1](Assets/Images/JbGif.gif)
+
+**Unique Mechanics**: Grid generation. Passive & active skills. Multiplayer connection.
+
+**Skills Learned**: Photon Fusion, Multiplayer, Object pool, Factory.
+
+---
+
+
 ### LeetCode
 
-I have solved many problems using C# on [LeetCode](https://leetcode.com/u/s0dya/), which has helped me improve my problem-solving skills and deepen my understanding of algorithms and data structures.
+I have solved problems with C# on [LeetCode](https://leetcode.com/u/s0dya/).
 
 ![Screenshot 1](Assets/Images/Leet.png)
 
@@ -174,7 +189,7 @@ I have solved many problems using C# on [LeetCode](https://leetcode.com/u/s0dya/
 
 ### Blender
 
-I have created models of environments and characters for "Lullaby of Hunger" and other personal projects. I also created animations using Blender's Rigify.
+I have created models of environments and characters for "Lullaby of Hunger" and other personal projects. I also created animations using Blenders Rigify.
 
 ![Screenshot 3](Assets/Images/GifWalking.gif)
 ![Screenshot 3](Assets/Images/GifKill.gif)
