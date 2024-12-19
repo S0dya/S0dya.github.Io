@@ -2,6 +2,8 @@
 
 I'm a game developer with experience in creating a variety of games on Unity, from mobile horror, puzzles to complex 3D shooters. Below are some of my key projects showcasing my skills and the unique mechanics I have developed.
 
+<iframe width="960" height="600" src="https://www.youtube.com/watch?v=Txi0ZCo5lIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Projects
 
 ## Lullaby of Hunger
