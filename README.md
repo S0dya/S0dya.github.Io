@@ -17,11 +17,9 @@ I'm a game developer with experience in creating a variety of games on Unity, fr
 
 **Unique Mechanics**: Inversive kinematics for realistic aiming and reloading, isometric and first-person camera switches, complex enemy behaviors and responses on being shot.
 
-![Screenshot 1](Assets/Images/LohUf1.gif)
-
 **Skills Learned**: Animation rigging, ragdoll, observer pattern, level design, 3D modeling, animating, complex game settings, localization.
 
-![Screenshot 2](Assets/Images/LohUf2.gif)
+![Screenshot 1](Assets/Images/LohUf1.gif)
 
 **Links**:
 - [Itch.Io Link](https://pinkthing.itch.io/lullaby-of-hunger)
@@ -37,11 +35,9 @@ I'm a game developer with experience in creating a variety of games on Unity, fr
 
 **Unique Mechanics**: Complex dialogue system, NPC schedules, game events, mini-games.
 
-![Screenshot 1](Assets/Images/tow.png)
-
 **Skills Learned**: Complex dialogue system, NPC behavior design, coding and design for 2D games.
 
-![Screenshot 2](Assets/Images/Tow1.png)
+![Screenshot 1](Assets/Images/tow.png)
 
 **Links**:
 - [Itch.Io Link](https://ordinaryworldgame.itch.io/ordinary-world)
@@ -57,11 +53,9 @@ I'm a game developer with experience in creating a variety of games on Unity, fr
 
 **Unique Mechanics**: Drawing spells on screen to cast them with different elemental powers, enemies responses to different elemental damage.
 
-![Screenshot 1](Assets/Images/ma.png)
-
 **Skills Learned**: Random level and enemy generation, complex input systems, complex elemtal system.
 
-![Screenshot 2](Assets/Images/MaUf.png)
+![Screenshot 1](Assets/Images/ma.png)
 
 **Links**:
 - [GooglePlay Link](https://play.google.com/store/apps/details?id=com.PinkThing.MagicAssault&hl=en&gl=US)
@@ -82,8 +76,6 @@ I'm a game developer with experience in creating a variety of games on Unity, fr
 
 **Skills Learned**: AI pathfinding, level design, lighting effects, mobile controls.
 
-![Screenshot 2](Assets/Images/Cye1.png)
-
 **Links**:
 - [Itch.Io Link](https://pinkthing.itch.io/close-your-eyes)
 - [Yandex Games Link](https://yandex.ru/games/app/293705?utm_source=app_page)
@@ -100,11 +92,11 @@ I'm a game developer with experience in creating a variety of games on Unity, fr
 
 **Description**: A prototype mechs tower defense, built using Unitys DOTS and ECS.
 
-![Screenshot 1](Assets/Images/Mg.gif)
-
 **Unique Mechanics**: Implementation of ECS and DOTS for efficient game logic processing. This prototype includes basic AI behaviors.
 
 **Skills Learned**: DOTS, ECS, Jobs System, Burst Compiler.
+
+![Screenshot 1](Assets/Images/Mg.gif)
 
 ---
 
@@ -114,14 +106,13 @@ I'm a game developer with experience in creating a variety of games on Unity, fr
 
 **Description**: A prototype multiplayer arcade.
 
-![Screenshot 1](Assets/Images/JbGif.gif)
-
 **Unique Mechanics**: Grid generation. Passive & active skills. Multiplayer connection.
 
 **Skills Learned**: Photon Fusion, Multiplayer, Object pool, Factory.
 
----
+![Screenshot 1](Assets/Images/JbGif.gif)
 
+---
 
 ### LeetCode
 
