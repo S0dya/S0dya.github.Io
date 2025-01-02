@@ -25,8 +25,6 @@ I'm a game developer with experience in creating a variety of games on Unity, fr
 - [Itch.Io Link](https://pinkthing.itch.io/lullaby-of-hunger)
 - [More Information](https://www.behance.net/gallery/201274647/Lullaby-Of-Hunger)
 
-![Screenshot 3](Assets/Images/GIF.gif)
-
 ---
 
 ## The Ordinary World
@@ -72,9 +70,9 @@ I'm a game developer with experience in creating a variety of games on Unity, fr
 
 **Unique Mechanics**: Pathfinding AI, Unity lighting system, mobile joystick input.
 
-![Screenshot 1](Assets/Images/Cye.png)
-
 **Skills Learned**: AI pathfinding, level design, lighting effects, mobile controls.
+
+![Screenshot 1](Assets/Images/Cye.png)
 
 **Links**:
 - [Itch.Io Link](https://pinkthing.itch.io/close-your-eyes)
